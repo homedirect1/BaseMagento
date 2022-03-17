@@ -1,1 +1,0 @@
-# m2-vendor-gst-addon

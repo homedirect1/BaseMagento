@@ -1,1 +1,0 @@
-# m2.2-vendor-multishipping-addon
